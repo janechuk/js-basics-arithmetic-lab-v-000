@@ -1,8 +1,10 @@
-let var1 = 31
-let var2 =  2
+let var1 = 31;
+let var2 =  2;
 
 let multiply = var1 * var2 ;
 
 let random = Math.floor(Math.random() * 10) + 1;
 
-let mod = 24 % 5
+let var3 = 24;
+let var4 =  5;
+let mod = var3 % var4 ;
