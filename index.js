@@ -3,4 +3,4 @@ let var2 =  2
 
 let multiply = var1 * var2 ;
 
-let random = math.random() 
+let random = Math.floor(Math.random() * 10) + 1; 
