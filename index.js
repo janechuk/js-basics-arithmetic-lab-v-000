@@ -1,1 +1,1 @@
-let multiply = 31 * 2
+let multiply = (31 * 2)
